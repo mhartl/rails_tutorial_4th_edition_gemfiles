@@ -4,4 +4,4 @@ These are the latest Gemfiles for the [*Ruby on Rails Tutorial*](http://railstut
 
 * [`Gemfile` for the hello app](https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/hello_app/Gemfile) (`hello_app`) from Chapter 1
 * [`Gemfile` for the toy app](https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/toy_app/Gemfile) (`toy_app`) from Chapter 2
-* [`Gemfile` for the sample app](https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/sample_app/Gemfile) (`sample_app`) from Chapters 3–12
+* [`Gemfile` for the sample app](https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/sample_app/Gemfile) (`sample_app`) from Chapters 3–14
